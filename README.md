@@ -15,7 +15,7 @@ Usage
 To use this digital clock in your project, simply follow these steps:
 
 Clone this repository to your local machine using:
-git clone https://github.com/your-username/digital-clock.git
+git clone https://github.com/dearanuj2002/digital-clock.git
 
 Navigate into the project directory:
 cd digital-clock
